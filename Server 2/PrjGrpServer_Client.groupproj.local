@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions/>
-  <Default.Personality>
-    <Projects ActiveProject="D:\Delphi XE 7\Test\Server 2\Server\PrjServer.dproj"/>
-  </Default.Personality>
+	<Transactions/>
+	<Default.Personality>
+		<Projects ActiveProject="D:\GitHub Repository\Delphi-Server-Uebung\Server 2\Client\PrjClient.dproj"/>
+	</Default.Personality>
 </BorlandProject>

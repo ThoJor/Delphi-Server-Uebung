@@ -29,7 +29,7 @@ FormOnTop=0
 [D:\Delphi XE 7\Test\Server 2\Server\UServerHaupt.pas]
 ModuleType=TSourceModule
 FormState=1
-FormOnTop=0
+FormOnTop=1
 
 [EditWindow0]
 ViewCount=2
@@ -68,8 +68,8 @@ BottomMiddelPanelData=0000080001020200000009000000446F636B5369746530100000004772
 [View0]
 CustomEditViewType=TEditView
 Module=D:\Delphi XE 7\Test\Server 2\Client\UClientHaupt.pas
-CursorX=63
-CursorY=20
+CursorX=14
+CursorY=42
 TopLine=5
 LeftCol=1
 Elisions=
@@ -302,8 +302,8 @@ Create=1
 Visible=0
 Docked=1
 State=0
-Left=0
-Top=0
+Left=-1536
+Top=-118
 Width=2844
 Height=6204
 MaxLeft=-1
