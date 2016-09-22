@@ -1,0 +1,14 @@
+program PrjClient;
+
+uses
+  Vcl.Forms,
+  UHaupt in 'UHaupt.pas' {FrmClient};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmClient, FrmClient);
+  Application.Run;
+end.

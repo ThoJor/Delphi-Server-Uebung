@@ -1,0 +1,25 @@
+unit UServerHaupt;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.Win.ScktComp;
+
+type
+  TFrmServer = class(TForm)
+    SSocket: TServerSocket;
+  private
+    { Private-Deklarationen }
+  public
+    { Public-Deklarationen }
+  end;
+
+var
+  FrmServer: TFrmServer;
+
+implementation
+
+{$R *.dfm}
+
+end.

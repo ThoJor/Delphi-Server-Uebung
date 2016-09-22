@@ -1,0 +1,26 @@
+unit UClientHaupt;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.Win.ScktComp, Vcl.StdCtrls;
+
+type
+  TFrmClient = class(TForm)
+    CSocket: TClientSocket;
+    EdtIP: TEdit;
+  private
+    { Private-Deklarationen }
+  public
+    { Public-Deklarationen }
+  end;
+
+var
+  FrmClient: TFrmClient;
+
+implementation
+
+{$R *.dfm}
+
+end.
