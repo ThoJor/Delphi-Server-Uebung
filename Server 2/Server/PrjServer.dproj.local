@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.996,C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=D:\Delphi XE 7\Test\Server 2\Server\UHaupt.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.007,C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Project1.dproj=D:\Delphi XE 7\Test\Server 2\Server\PrjServer.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.230,D:\Delphi XE 7\Test\Server 2\Server\UHaupt.dfm=D:\Delphi XE 7\Test\Server 2\Server\UServerHaupt.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.230,D:\Delphi XE 7\Test\Server 2\Server\UHaupt.pas=D:\Delphi XE 7\Test\Server 2\Server\UServerHaupt.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.996,C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas=D:\Delphi XE 7\Test\Server 2\Server\UHaupt.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.379,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.897,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.676,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,D:\Delphi XE 7\Test\Server 2\Server\UServerHaupt.dfm=D:\Delphi XE 7\Test\Server 2\Server\UHaupt.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,D:\Delphi XE 7\Test\Server 2\Server\UHaupt.dfm=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,D:\Delphi XE 7\Test\Server 2\Server\UServerHaupt.pas=D:\Delphi XE 7\Test\Server 2\Server\UHaupt.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,D:\Delphi XE 7\Test\Server 2\Server\PrjServer.dproj=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,D:\Delphi XE 7\Test\Server 2\Server\UHaupt.pas=C:\Users\Uswer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

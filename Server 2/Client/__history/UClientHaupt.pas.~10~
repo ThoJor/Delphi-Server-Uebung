@@ -1,0 +1,44 @@
+unit UClientHaupt;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.Win.ScktComp, Vcl.StdCtrls;
+
+type
+  TFrmClient = class(TForm)
+    CSocket: TClientSocket;
+    EdtIP: TEdit;
+    BtnStart: TButton;
+    BtnClose: TButton;
+    EdtPort: TEdit;
+    procedure BtnCloseClick(Sender: TObject);
+    procedure BtnStartClick(Sender: TObject);
+  private
+    { Private-Deklarationen }
+  public
+    { Public-Deklarationen }
+  end;
+
+var
+  FrmClient: TFrmClient;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFrmClient.BtnCloseClick(Sender: TObject);
+begin
+  CSocket.Active:= false;
+  Application.Terminate;
+end;
+
+procedure TFrmClient.BtnStartClick(Sender: TObject);
+begin
+  CSocket.Address:= EdtIP.Text;
+  CSocket.Port:= StrToInt(EdtPort.Text);
+  CSocket.Active:= true;
+end;
+
+end.
